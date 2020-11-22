@@ -1,0 +1,14 @@
+{
+  "name": "rover",
+  "version": "1.0.0",
+  "description": "Discord selfbot",
+  "main": "Rover.js",
+  "author": "Jecta",
+  "dependencies": {
+    "center-align": "^1.0.1",
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0",
+    "discord.js": "^11.6.4",
+    "fs": "0.0.1-security"
+  }
+}
